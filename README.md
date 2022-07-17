@@ -1,5 +1,5 @@
 # Scarecrow Bloxflip Predictor
-**You can message me at**: Methionylalanylthreonyl#9557 or Ice Bear#4292
+**You can message me at**: Methionylalanylthreonyl#9557
 
 A program that uses strategies and probability maths to choose the best times to bet on BloxFlip's crash gamemode. https://bloxflip.com/crash. <br>
 THIS DOES NOT PREDICT 100% WHEN ITS GOING TO CRASH. Instead either it uses a betting strategy or compares the previous crash games to see if it'd be a good idea to bet or to find a good multiplier  <br>
